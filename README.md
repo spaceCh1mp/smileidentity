@@ -1,2 +1,2 @@
 # smileidentity
-Go web client for Smile Identity REST API
+Go web client for Smile Identity
